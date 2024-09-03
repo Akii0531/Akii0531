@@ -5,10 +5,6 @@
    > Human-centered design
    > AI and its impact on UX
    > Designing for inclusivity and accessibility
-🌱 I’m currently learning
-   > Advanced interaction design
-   > User psychology and behaviour analysis
-   > Cutting-edge prototyping techniques
 💞️ I’m looking to collaborate on
    > Projects that make technology more intuitive
    > AI-powered solutions that enhance user experience
